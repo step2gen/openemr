@@ -36,7 +36,7 @@
     "replace-in-file": "^5.0.2"
   },
   "dependencies": {
-    "angular": "1.7.9",
+    "angular": "1.8.3",
     "angular-sanitize": "1.7.9",
     "angular-summernote": "0.8.1",
     "backbone": "1.4.0",
